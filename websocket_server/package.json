@@ -1,0 +1,13 @@
+{
+  "name": "broker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "serve": "node index.js"
+  },
+  "dependencies": {
+    "redis": "^3.1.2",
+    "ws": "^8.2.3"
+  }
+}
