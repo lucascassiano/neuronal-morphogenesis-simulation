@@ -1,7 +1,7 @@
 # Neuronal Morphogenesis Simulations
 
 Neuronal morphogenesis inspired simulation tool. 
-More details I covered about this project this 2021 essay [on Neuromorphology](https://www.notion.so/lucascassiano0/Essays-on-Neuromorphology-and-cognition-72a0442187e04558b4fafaaece3b9dc3).
+More details I covered about this project on this 2021 essay [on Neuromorphology](https://www.notion.so/lucascassiano0/Essays-on-Neuromorphology-and-cognition-72a0442187e04558b4fafaaece3b9dc3).
 
 ![single neuron](./docs/example_3_neurons.jpeg)
 
